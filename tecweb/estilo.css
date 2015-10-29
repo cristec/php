@@ -1,0 +1,99 @@
+body{
+	font-family: sans-serif;
+}
+
+
+
+
+.reg1{
+	background-image:url(banner.jpg);
+	background-repeat: no-repeat;
+	background-position: 100%;
+	width:100%;
+	height: 135px;
+	
+
+}
+
+.login{
+  width: 95%;
+  height:5px;
+  padding-top: 150px;
+}
+
+.menu {
+	width: 25%;
+	height: 5px;
+	position: relative;
+	padding-top: 10px;
+	font-family: sans-serif;
+	font-style:italic;
+	
+}
+
+
+
+.menu li{
+	list-style: none;
+	color: blue; 
+}
+.menu a:link{
+	color: blue; 
+}
+.menu a:visited{
+	color: blue; 
+}
+.menu a:active{
+	color: orange; 
+}
+.menu a:hover{
+	color: green;
+}
+
+
+.regiao3{
+	position: relative;
+	left: 200px;
+	width: 75%;
+	min-height: 300px;
+	max-height: 400px;
+	overflow: scroll; 
+	text-align: justify;
+	padding-right: 50px;
+	
+	
+		
+}
+
+.regiao3 h2, h3{
+	text-align: center;
+	font-style: black;
+}
+
+.regiao3 h2{
+	font-size: 22px;
+}
+
+p{
+	text-indent: 50px;
+	color: rgb(50, 180, 200);
+}
+
+.desenvolvedores{
+	border:2px solid black;
+	margin-bottom: 50px;
+}
+.desenvolvedores td, tr{
+	border: 1px solid gray;
+	height: 50%;
+	width: 50%;
+}
+
+footer{
+	text-align: left;
+	font-family: fantasy;
+	font-size: 12px;
+	padding-left: 15px;
+	padding-top: 15px;
+	font-style:italic;
+}
